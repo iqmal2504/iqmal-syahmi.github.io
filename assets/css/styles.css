@@ -1,0 +1,131 @@
+.navbar.navbar-light.navbar-expand-md {
+  background-color: #6171c5;
+}
+
+#promo {
+  text-align: center;
+  padding: 30px;
+  background: url(../../assets/img/scenery5.jpg) no-repeat;
+  background-size: cover;
+}
+
+@media (min-width: 576px) {
+  #firstsection .jumbotron {
+    padding: 20px;
+  }
+}
+
+#promo .jumbotron {
+  border-radius: 100px;
+  padding: 20px;
+  background-color: rgba(255,255,255,0.55);
+  max-width: 1000px;
+  margin: auto;
+}
+
+@media (min-width: 300px) {
+  #firstsection .jumbotron {
+    padding: 30px;
+  }
+}
+
+.introduction-line h1 {
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+#welcome p {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+#body-part {
+  background-color: #81b5f1;
+}
+
+.container.introduction-line {
+  text-align: center;
+  padding: 60px 0;
+}
+
+h2 {
+  font-size: 20px;
+  margin: auto;
+  margin-left: -40px;
+}
+
+#link-1 {
+  display: block;
+  margin-left: -5px;
+}
+
+@media (min-width: 300px) {
+  #link-1 {
+    display: block;
+    margin-left: -20px;
+    margin-right: auto;
+    margin-bottom: 50px;
+  }
+}
+
+h5 {
+  font-size: 15px;
+  margin: auto;
+}
+
+.footer-basic {
+  background-color: #439e9e;
+}
+
+#heading1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#para1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+#scenery2 {
+  margin-left: 30px;
+}
+
+#scenery3 {
+  margin-left: 25px;
+}
+
+#text-section {
+  margin-top: 40px;
+}
+
+#introtext {
+  text-align: center;
+  margin-top: 25px;
+}
+
+#chart1 {
+  margin-bottom: 30px;
+}
+
+#heading2 {
+  text-align: center;
+}
+
+@media (min-width: 992px) {
+  #video-1 {
+    max-width: 800px;
+    max-height: 400px;
+    margin-left: 250px;
+  }
+}
+
+@media (min-width: 300px) {
+  #video-1 {
+    max-width: 300px;
+    max-height: 200px;
+  }
+}
+
